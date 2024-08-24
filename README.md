@@ -6,7 +6,7 @@ This is a solution to the [Results summary component](https://www.frontendmentor
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.PNG)
 
 ### Links
 
